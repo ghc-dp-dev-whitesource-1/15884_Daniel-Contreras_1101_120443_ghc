@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fast-xml-parser": "4.2.5",
+    "fast-xml-parser": "5.7.0",
     "qs": "6.2.0",
     "minimist": "0.2.3",
     "netmask": "1.0.6",
